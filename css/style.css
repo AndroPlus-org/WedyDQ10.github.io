@@ -14,7 +14,14 @@ opacity: 1.0;
 color:#1111cc;
 font-size: 1.3em;
 }
-span{font-size: 1.3em;}
+span{
+	font-size: 1.3em;
+}
+.notice{
+	background-color:#A9F5D0;
+	border-radius:5px;
+	padding:2px;
+}
 .Z{
 background-image: url("../img/SO-02E.png");
 }
