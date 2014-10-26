@@ -14,7 +14,7 @@ opacity: 1.0;
 color:#1111cc;
 font-size: 1.3em;
 }
-span{
+span, p{
 	font-size: 1.3em;
 }
 .notice{
