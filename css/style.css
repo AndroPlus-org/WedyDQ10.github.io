@@ -1,4 +1,4 @@
-.Z,.S,.AM,.Z1,.Z1a,.Z1f,.Z2,.A2,.ZL2,.SX,.VL,.UL,.TZ,.ZU,.AX,.NX,.GX,.aHD,.play,.ray,.acro,.arc,.x10,.a12S,.mini,.Z2T,.Z3dcm,.Z3au,.Z3sb,.Z3c{
+.Z,.S,.AM,.Z1,.Z1a,.Z1f,.Z2,.A2,.ZL2,.SX,.VL,.UL,.TZ,.ZU,.AX,.NX,.GX,.aHD,.play,.ray,.acro,.arc,.x10,.a12S,.mini,.Z2T,.Z3dcm,.Z3au,.Z3sb,.Z3c,.J1c{
 background-position: right center; 
 background-repeat:no-repeat;
 background-size:contain;
@@ -111,4 +111,7 @@ background-image: url("../img/401SO.png");
 }
 .Z3c{
 background-image: url("../img/SO-02G.png");
+}
+.J1c{
+background-image: url("../img/D5788.png");
 }
